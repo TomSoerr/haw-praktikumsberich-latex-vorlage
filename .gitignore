@@ -1,0 +1,32 @@
+.DS_Store
+
+# Ignore all LaTeX log files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.ent
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Ignore HAW.jpg
+HAW.jpg
+
+# Allow only PDF and TeX files to be committed
+!*.pdf
+!*.tex
